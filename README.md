@@ -186,18 +186,10 @@ Scalable typography system
 Responsive design principles
 Accessibility considerations
 
-Troubleshooting
-Common Issues
 
-API Key Errors: Ensure valid Gemini API key is configured
-Network Issues: Check internet connectivity
-Parsing Errors: AI response format validation failures
-Performance: Large catalog or complex queries
 
-Debug Information
-The application includes comprehensive logging for:
+https://github.com/user-attachments/assets/ce80a772-e503-40b0-a443-983191abc452
 
-AI service requests/responses
-Error conditions
-State transitions
-Performance metrics
+
+
+
